@@ -6,6 +6,13 @@ TikTok canlı yayın analitikleri, video indirme ve profil analizi için gelişt
 
 **Uygulama geliştirilme halinde, stabil olmayabilir. Bazı özellikler Python versiyonu daha stabil ama kısıtlı.**
 
+### 📌 Özellikler Hakkında
+
+- **Cookie ve İmzalama**: Cookie ve imzalama olmadan bazı yayınlar izlenebilir. Kısıtlama varsa cookie zorunlu olabilir.
+- **Video ve Yorum İndirme**: Yorumları ve videoları indirmek için ek kütüphane şart. İndirip başlatınca otomatik bağlanır.
+- **Yayın İstatistikleri**: Yayın istatistikleri gözlemlenebilir. Gelen hediyelerin fiyatları ve ortalamaları yazıyor.
+- **Eğitim Amaçlı**: Kötüye kullanmayın, eğitim amaçlıdır. İncele, mantığı öğren.
+
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
