@@ -1,0 +1,10 @@
+node_modules/ 
+.claude/ 
+/backend/kayitlar
+/backend/tiktok-signature
+/backend/Profilresmi
+/backend/modules/catalogs
+/backend/tamkatalog.json
+.env
+.env.local
+nul 
