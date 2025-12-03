@@ -2,6 +2,22 @@
 
 TikTok canlı yayın analitikleri, video indirme ve profil analizi için geliştirilmiş kapsamlı bir Node.js projesi.
 
+## ⚠️ ÖNEMLİ UYARI
+
+**Uygulama geliştirilme halinde, stabil olmayabilir. Bazı özellikler Python versiyonu daha stabil ama kısıtlı.**
+
+## 📸 Ekran Görüntüleri
+
+<div align="center">
+  <img src="read/e1.png" alt="Ekran Görüntüsü 1" width="400"/>
+  <img src="read/e2.png" alt="Ekran Görüntüsü 2" width="400"/>
+  <img src="read/e3.png" alt="Ekran Görüntüsü 3" width="400"/>
+  <img src="read/e4.png" alt="Ekran Görüntüsü 4" width="400"/>
+  <img src="read/e5.png" alt="Ekran Görüntüsü 5" width="400"/>
+  <img src="read/e6.png" alt="Ekran Görüntüsü 6" width="400"/>
+  <img src="read/e7.png" alt="Ekran Görüntüsü 7" width="400"/>
+</div>
+
 ## 📋 İçindekiler
 
 - [Özellikler](#-özellikler)
